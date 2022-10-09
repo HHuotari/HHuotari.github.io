@@ -1,0 +1,25 @@
+body {
+    margin: 100px;
+    background-color: transparent;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    text-indent: 30px;
+    color: darkorange;
+}
+
+img {
+    width: 350px;
+}
+
+li {
+    color: brown;
+}
+
+h1 {
+    color: brown;
+}
+
